@@ -13,8 +13,8 @@ public class ArrayAndLoop {
      
         JOptionPane.showMessageDialog(null, "Please enter 4 scores.");   
         
-        for (int a = 0; a < 4; a++) {
-            
+        for (int a = 0; a < 4; a++) 
+        {
             response = JOptionPane.showInputDialog(null, "Enter score" + (a+1));
             scores[a] = Integer.parseInt(response);
             
