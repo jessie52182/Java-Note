@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Java_0122 {
+public class ArrayList {
     
     public static void main(String[] args) {
          
